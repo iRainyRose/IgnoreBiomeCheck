@@ -1,0 +1,7 @@
+name: IgnoreBiomeCheck
+main: org.rainyrose.ignorebiomecheck.Main
+version: "1.0.0"
+api: ["NKMOT"]
+load: STARTUP
+author: "Rainy_Rose"
+website: "https://github.com/iRainyRose/IgnoreBiomeCheck"
